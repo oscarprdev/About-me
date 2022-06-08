@@ -4,6 +4,8 @@
 - 😎 If you are looking for a motivated and passionated junior web developer you can text me here: vlcoscar8@gmail.com
 - 👀 Have you seen my repositories and you are not convinced yet? Then take a look to my profile in linkedin: www.linkedin.com/in/oscarperez8 
 
+- I've just finished my first ✨ personal portfolio ✨, check it out at: https://portfolio-js-eight.vercel.app/. 
+
 
 <!---
 vlcoscar8/vlcoscar8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
