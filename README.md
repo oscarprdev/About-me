@@ -2,7 +2,7 @@
 - 📫 The stack software skills that I manage are: HTML, CSS, JAVASCRIPT, REACT, LIT, ANGULAR, NODEJS, MongoDB & Express.
 - 😎 If you are looking for a motivated and passionated junior web developer you can text me here: vlcoscar8@gmail.com
 - ✨ Check it out my personal PORTFOLIO at: https://portfolio-js-eight.vercel.app/. 
-- 👀 Have you seen my repositories and you are not convinced yet? Then take a look to my profile in LINKEDIN: www.linkedin.com/in/oscarperez8 
+- 👀 To know more about me and my professional background check my LINKEDIN profile at: www.linkedin.com/in/oscarperez8 
 
 
 
