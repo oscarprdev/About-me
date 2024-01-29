@@ -5,12 +5,6 @@
 - 👀 To know more about me and my professional background check my LINKEDIN profile at: www.linkedin.com/in/oscarperez8
 
 
-
-
-<a href="https://github.com/oscarprdev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oscarprdev&show_icons=true&theme=radical" />
-</a>
-
 <a href="https://github.com/oscarprdev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarprdev&layout=compact&theme=radical" />
 </a>
