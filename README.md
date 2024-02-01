@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+developer;Typescript+lover;Golang+developer+in+process)](https://git.io/typing-svg)
+
 - 👋 Hi, my name is OSCAR, I'm from Valencia, SPAIN.
 - 📫 The stack software skills that I manage are: HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, VUE, LIT, NODEJS.
 - 😎 If you are looking for a motivated and passionated web developer you can text me here: vlcoscar8@gmail.com
