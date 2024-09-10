@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+developer;Typescript+lover;)](https://git.io/typing-svg)
 
 - 👋 Hi, my name is OSCAR, I'm from Valencia, SPAIN.
-- ✨ Check it out my personal PORTFOLIO at: [https://oscarpr-portfolio.vercel.app/](https://oscarprdev.vercel.app/). 
+- ✨ Check it out my personal PORTFOLIO at: [https://oscarprdev.vercel.app/](https://oscarprdev.vercel.app/). 
 - 👀 To know more about me and my professional background check my LINKEDIN profile at: www.linkedin.com/in/oscarperez8
 
 
