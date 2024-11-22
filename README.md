@@ -4,10 +4,11 @@
 - ✨ Check it out my personal PORTFOLIO at: [https://oscarprdev.vercel.app/](https://oscarprdev.vercel.app/). 
 - 👀 To know more about me and my professional background check my LINKEDIN profile at: www.linkedin.com/in/oscarperez8
 
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,go,postgres)](https://skillicons.dev)
 
-<a href="https://github.com/oscarprdev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarprdev&layout=compact&theme=radical" />
-</a>
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=astro,react,nextjs,vue,nuxtjs,angular,svelte,tailwind,prisma,graphql,nodejs,express)](https://skillicons.dev)
 
 
 <!---
