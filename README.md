@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,go,postgres)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=astro,react,nextjs,vue,nuxtjs,angular,svelte,tailwind,prisma,graphql,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,react,nextjs,vue,nuxtjs,tailwind,prisma,graphql,nodejs,express,supabase)](https://skillicons.dev)
 
 
 <!---
